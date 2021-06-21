@@ -9,3 +9,5 @@ function initBranch() {
 function feature1() {
     console.log('f1');
 }
+
+console.log('doneF1');
