@@ -5,3 +5,7 @@ function master() {
 function initBranch() {
     console.log('initBranch');
 }
+
+function feature2() {
+    console.log('f2');
+}
