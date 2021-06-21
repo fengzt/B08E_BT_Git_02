@@ -20,3 +20,5 @@ console.log('doneF2');
 function done() {
     console.log('done');
 }
+
+console.log('done All');
